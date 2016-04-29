@@ -6,7 +6,7 @@ env:
 
 notifications:
   email:
-    - your.email@gmail.com
+    - manikantupadhyay@gmail.com
 
 android:
   components:
@@ -27,4 +27,4 @@ script:
   - echo "Travis branch is $TRAVIS_BRANCH"
   - echo "Travis branch is in pull request $TRAVIS_PULL+REQUEST"
   
-  - ./gradlew connectedAndroidTest coveralls
+ 
