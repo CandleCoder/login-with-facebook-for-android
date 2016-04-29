@@ -1,3 +1,6 @@
+https://travis-ci.org/CandleCoder/login-with-facebook-for-android.svg?branch=master
+
+
 # login-with-facebook-for-android
 The demo showing the login with facebook example.
 You can clone this repository to add Login with facebook faeature to your android app.
